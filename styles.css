@@ -1,0 +1,57 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #FFDDF8;
+}
+
+h1 {
+	background-image: url(https://blog.dopplerrelay.com/wp-content/uploads/20180905-RegistroSPF.png);
+	font-family: century;
+	text-align: center;
+	padding: 5% 5%;
+	color: purple;
+}
+
+.datos {
+	background-image: url(https://blog.dopplerrelay.com/wp-content/uploads/20180905-RegistroSPF.png);
+	text-align: center;
+
+
+}
+
+.formulario{
+	padding: 10px 10px;
+	font-family: century;
+	color: purple;
+	margin: 2% 27%;
+	align-items: center;
+	border: none;
+  	color: black;
+  	padding: 15px 32px;
+  	display: inline-block;
+	background-image: url(https://image.freepik.com/foto-gratis/suave-nublado-es-degradado-pastel-fondo-cielo-abstracto-color-dulce_6529-1771.jpg);
+
+}
+
+#boton{
+	background-color: #E1C6DC;
+	text-align: center;
+	font-family: century;
+	margin: 0% 40%;
+  	color: black;
+  	padding: 15px 32px;
+  	display: inline-block;
+  	font-size: 16px;
+}
+label {
+	background-image: url(https://image.freepik.com/foto-gratis/suave-nublado-es-degradado-pastel-fondo-cielo-abstracto-color-dulce_6529-1771.jpg);
+
+}
+
+input {
+	background-color: #D2C9D0;
+  	color: black;
+  	padding: 5px 5px;
+  	display: inline-block;
+}
